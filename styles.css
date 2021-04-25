@@ -1,0 +1,44 @@
+.container{
+    border:1px solid black;
+}
+
+.doboz
+{
+    background-color:#EFEFFF;
+    border:1px solid #DEDEEE;
+    border-radius:5px;
+}
+
+.lista
+{
+    background-color:#EFEFFF;
+    border:1px solid #DEDEEE;
+    border-radius:2px;
+    display: table-cell;
+}
+
+.hdr h1
+{
+    font-size:500%;
+    text-align:center;
+    font-style:italic;
+    color:#88AAFF;
+    text-shadow:2px 2px #4444FF;
+}
+
+.ftr
+{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:red;
+}
+
+.felv_form
+{
+    
+    justify-content:center;
+    
+    width:100%;
+}
